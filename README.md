@@ -1,1 +1,1 @@
-# ggome1-s-blog
+# ggome1-blog
